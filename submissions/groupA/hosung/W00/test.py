@@ -1,1 +1,3 @@
-﻿print('W00 test push OK')
+print('W00 test push OK')
+#테스트
+
